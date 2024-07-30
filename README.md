@@ -2,7 +2,7 @@
 
 Meu nome é **Bruna Eduarda**, é um bom vê-los por aqui 🙂
 
-- Atualmente estou estudante pelo [Alura](https://www.alura.com.br);
+- Atualmente estou estudando pelo [Alura](https://www.alura.com.br);
 - Estou me desenvolvendo e evoluindo na linguagem JavaScript;
 - Utilizo este espaço para minha organização e compartilhamento dos meus projetos desenvolvidos;
 
